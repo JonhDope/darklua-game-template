@@ -1,0 +1,3 @@
+std = "selene_definitions"
+[lints]
+global_usage = "allow"
