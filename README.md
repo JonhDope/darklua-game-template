@@ -12,3 +12,9 @@ Next, open `darklua-game-template.rbxlx` in Roblox Studio and start the Rojo ser
 ```bash
 lune run sync
 ```
+
+## Cloning This Repo
+Run
+```bash
+    git https://github.com/JonhDope/darklua-game-template.git
+```
