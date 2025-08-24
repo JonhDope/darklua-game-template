@@ -16,5 +16,5 @@ lune run sync
 ## Cloning This Repo
 Run
 ```bash
-    git https://github.com/JonhDope/darklua-game-template.git
+git https://github.com/JonhDope/darklua-game-template.git
 ```
