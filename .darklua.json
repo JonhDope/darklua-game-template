@@ -21,7 +21,10 @@
     "remove_unused_if_branch",
     "remove_unused_while",
     "filter_after_early_return",
-    "remove_nil_declaration",
-    "remove_empty_do"
+    "remove_empty_do",
+    "remove_unused_variable",
+    "remove_method_definition",
+    "convert_index_to_field",
+    "remove_nil_declaration"
   ]
 }
