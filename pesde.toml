@@ -8,6 +8,9 @@ license = "MIT"
 [target]
 environment = "roblox"
 
+[engines]
+lune = "^0.8.9"
+
 [indices]
 default = "https://github.com/pesde-pkg/index"
 

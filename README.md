@@ -1,9 +1,9 @@
-# darklua-game-template
+# Darklua Game Template
 
 ## DISCLAIMER
 
 **THESE SCRIPTS USE LUNE 0.8.9**
-**FEEL FREE TO EDIT THESE SCRIPTS TO YOUR LIKING.**
+**MAKE SURE TO HAVE LUNE 0.8.9 INSTALLED.**
 
 ## Getting Started
 To build the place from scratch, use:
