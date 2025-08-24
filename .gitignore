@@ -1,4 +1,15 @@
+# Project place file
+/*.rbxl
+/*.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+out/
 .pesde/
 luau_packages/
 lune_packages/
+roblox_packages/
 pesde.lock
