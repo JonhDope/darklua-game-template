@@ -4,6 +4,6 @@
     "shared": "src/shared",
     "client": "src/client",
     "server": "src/server",
-    "packages": "roblox_packages/"
+    "pkg": "roblox_packages/"
   }
 }
