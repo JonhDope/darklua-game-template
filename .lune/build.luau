@@ -3,7 +3,9 @@ local Process = require("@lune/process")
 
 local OUTPUT_DIRECTORY = "out"
 
-fs.removeDir(OUTPUT_DIRECTORY)
+if fs.isDir(OUTPUT_DIRECTORY) then
+    fs.removeDir(OUTPUT_DIRECTORY)
+end
 Process.spawn("darklua", {
     "process",
     "--config",
