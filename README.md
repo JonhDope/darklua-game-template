@@ -6,6 +6,12 @@
 **MAKE SURE TO HAVE LUNE 0.8.9 INSTALLED.**
 
 ## Getting Started
+
+To setup this template, run
+```bash
+pesde i
+```
+
 To build the place from scratch, use:
 
 ```bash
